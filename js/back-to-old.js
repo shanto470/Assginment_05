@@ -1,4 +1,3 @@
 document.getElementById('btn-home').addEventListener('click',function(){
-    window.location.href ='./index.html'
-    
+    window.location.href ='/Assginment_05/index.html'   
  })
